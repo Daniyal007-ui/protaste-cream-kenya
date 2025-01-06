@@ -63,9 +63,8 @@ export default function Hero() {
                     Saw Palmetto: Reduces symptoms of enlarged prostate. <br />
                     Lycopene: Offers antioxidant properties.<br />
                     Zinc: Essential for immune function and hormone regulation.<br/>
-                    *Frequent urination, especially at night. <br/>
-                   * Difficulty starting or stopping urination
-
+                    *Frequency of urination /urgency of urination/dysuria.. <br/>
+                    *Inconsistent life between husband and wife..
                 </p>
 
                 <Link href={'https://wa.me/qr/AR43EYIELKAZL1'} className={buttonVariants({ variant: "outline" })}>Customer Support</Link>

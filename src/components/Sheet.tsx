@@ -32,7 +32,7 @@ export function SheetSide() {
 
             
             <SheetHeader>
-              <SheetTitle>KUMROH:</SheetTitle>
+              <SheetTitle>Perfect Shop:</SheetTitle>
               <SheetDescription>
                 
               </SheetDescription>
